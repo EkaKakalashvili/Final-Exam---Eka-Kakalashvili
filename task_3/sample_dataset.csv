@@ -1,0 +1,11 @@
+text,label
+"Congratulations! You won a free iPhone. Click here to claim.","spam"
+"URGENT! Your bank account is locked. Verify immediately.","spam"
+"Win $5000 now by entering this contest!","spam"
+"Hey, are you free for a call tomorrow?","ham"
+"Don't forget our meeting at 5 PM.","ham"
+"Can you send me the report from yesterday?","ham"
+"Limited-time offer!! Buy 1 get 2 free!!!","spam"
+"Your Amazon package has been shipped.","ham"
+"Join our cybersecurity webinar today!","ham"
+"Claim your discount by clicking this link now!","spam"
