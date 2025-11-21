@@ -4,7 +4,7 @@ Convolutional layers
  These layers apply filters (also called kernels) that slide over the input and extract important local features. For images, these could be edges or shapes; for cybersecurity data, CNNs can extract traffic patterns, byte-level signatures, or malicious sequence structures.
  The filters are learned automatically during training.
 
-
+ 
 Pooling layers
  These reduce the dimensionality of feature maps, which makes the model faster and prevents overfitting. Max-pooling is the most common—it keeps only the strongest activation in each region.
 
